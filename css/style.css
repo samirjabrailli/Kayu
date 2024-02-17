@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./kayu.png);
+    background-size: 950px;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+form {
+    background-color: aqua;
+    height: 650px;
+    width: 355px;
+    text-align: center;
+
+
+}
+
+h6 {
+    letter-spacing: 15px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form button {
+    width: 100px;
+    background-color: purple;
+    color: white;
+}
+
+form .blue{
+    background-color: white;
+    color: blue;
+}
+
+form .red{
+    background-color: white;
+    color: red;
+}
